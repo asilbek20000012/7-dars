@@ -114,8 +114,7 @@ switch (month) {
         break;
 
 
-    case 8:
-        console.log("Avgust");
+    case
 
         break;
 
