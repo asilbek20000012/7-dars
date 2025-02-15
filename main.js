@@ -390,3 +390,4 @@ for (let i = 1; i <= 10; i++) {
 console.log("Yig'indi:", sum); 
 
 
+// Assalomu Aleykum ustoz men bu vazifani sal aralashtirib yozganman chunki tushunmagan joyimni tashlab ketgan edim keyin oxirida ishlab qoyganman.
